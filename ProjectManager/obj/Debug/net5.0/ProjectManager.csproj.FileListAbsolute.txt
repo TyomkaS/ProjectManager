@@ -1,0 +1,16 @@
+D:\MyPROGS\study\C#\ProjectManager\ProjectManager\bin\Debug\net5.0\ProjectManager.exe
+D:\MyPROGS\study\C#\ProjectManager\ProjectManager\bin\Debug\net5.0\ProjectManager.deps.json
+D:\MyPROGS\study\C#\ProjectManager\ProjectManager\bin\Debug\net5.0\ProjectManager.runtimeconfig.json
+D:\MyPROGS\study\C#\ProjectManager\ProjectManager\bin\Debug\net5.0\ProjectManager.runtimeconfig.dev.json
+D:\MyPROGS\study\C#\ProjectManager\ProjectManager\bin\Debug\net5.0\ProjectManager.dll
+D:\MyPROGS\study\C#\ProjectManager\ProjectManager\bin\Debug\net5.0\ref\ProjectManager.dll
+D:\MyPROGS\study\C#\ProjectManager\ProjectManager\bin\Debug\net5.0\ProjectManager.pdb
+D:\MyPROGS\study\C#\ProjectManager\ProjectManager\obj\Debug\net5.0\ProjectManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyPROGS\study\C#\ProjectManager\ProjectManager\obj\Debug\net5.0\ProjectManager.AssemblyInfoInputs.cache
+D:\MyPROGS\study\C#\ProjectManager\ProjectManager\obj\Debug\net5.0\ProjectManager.AssemblyInfo.cs
+D:\MyPROGS\study\C#\ProjectManager\ProjectManager\obj\Debug\net5.0\ProjectManager.csproj.CoreCompileInputs.cache
+D:\MyPROGS\study\C#\ProjectManager\ProjectManager\obj\Debug\net5.0\ProjectManager.dll
+D:\MyPROGS\study\C#\ProjectManager\ProjectManager\obj\Debug\net5.0\ref\ProjectManager.dll
+D:\MyPROGS\study\C#\ProjectManager\ProjectManager\obj\Debug\net5.0\ProjectManager.pdb
+D:\MyPROGS\study\C#\ProjectManager\ProjectManager\obj\Debug\net5.0\ProjectManager.genruntimeconfig.cache
+D:\MyPROGS\study\C#\ProjectManager\ProjectManager\obj\Debug\net5.0\ProjectManager.csproj.AssemblyReference.cache
